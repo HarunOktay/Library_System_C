@@ -1,6 +1,7 @@
 # Library_System_C
 ## Library Management System C Implementation Overview
-This is a library management system implemented in C programming language. It allows users to manage students, authors, books, and book loans in a library setting.
+This is a library management system implemented in C programming language. It allows users to manage students, authors, books, and book loans in a library setting. 
+This project was created for the 2nd grade 1st semester structural programming course.
 
 ## Features
 - **Manage Students**: Add, delete, edit, and view student information.
