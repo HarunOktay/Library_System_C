@@ -24,11 +24,6 @@ This project was created for the 2nd grade 1st semester structural programming c
     - Choose options to manage students, authors, books, or book loans.
     - Follow on-screen instructions to perform desired actions.
 
-## File Structure
-- **library_management.c**: Main source code file containing the implementation of the library management system.
-- **README.md**: This file, providing information about the program.
-- **Additional header files**: Used for necessary declarations and definitions.
-
 ## Usage Notes
 - I developed this program with DEV-C++ IDE, and I recommend you to execute this file with that IDE
 
